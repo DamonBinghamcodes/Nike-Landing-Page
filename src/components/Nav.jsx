@@ -1,3 +1,5 @@
+// JavaScript Mastery Tutorial - Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website @ 1:10:00
+
 import { headerLogo } from '../assets/images';
 import { hamburger } from '../assets/icons';
 
